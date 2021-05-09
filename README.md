@@ -31,3 +31,5 @@ La baza acestei aplicatii stau doua API-uri. Unul dintre API-urile utilizate est
  <h2>Capturi de ecran aplicație</h2>
  Pagina de logare
  <img src = "https://user-images.githubusercontent.com/83892815/117584356-2352f180-b115-11eb-8585-3ca668528cc7.jpeg" width = "500" />
+ Detalii film
+  <img src = "https://user-images.githubusercontent.com/83892815/117584586-70839300-b116-11eb-94a1-80ea6eff64a1.jpeg" width = "500" />
