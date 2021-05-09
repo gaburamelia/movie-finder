@@ -21,7 +21,7 @@ Descriere API
 La baza acestei aplicatii stau doua API-uri. Unul dintre API-urile utilizate este furnizat de catre Google, cu ajutorul acestuia putandu-se face logarea pe aplicatie cu ajutorul contului de google pe care il avem. Cel de al doilea API este API-ul OMDb. Acesta este un serviciu web RESTful pentru a obține informații despre filme, conținut, imagini si despre rating.
 <h2>Flux de date</h2>
 <p>
-  Primul request in cadrul acestei aplicatii este introducerea numelui filmului pe care dorim sa-l cautam. Ca response pagina ne va furniza o lista cu filme care au incluse in sintaxa sa denumirea pe care am introdus-o. </p>
+  Primul request in cadrul acestei aplicatii este introducerea numelui filmului pe care dorim sa-l cautam. Ca response pagina ne va furniza o lista cu filme care au incluse in sintaxa lor denumirea pe care am introdus-o. </p>
 <p>Apoi urmatorul request pe care il mai putem face este seletarea filmului dorit din lista pe care ne-a generat-o, urmand ca a primi ca si raspuns descrierea, rating-ul acestuia.</p>
  <p> Metoda HTTP utilizata este cea de GET care ne ajuta in cazul nostru sa cautam filmele pe care le dorim si detaliile despre acestea.</p>
  <p> Pentru a putea utiliza API OMDb am avut nevoie de un apikey, cel furnizat de catre acesta are o limita de o 1000 de accesari pe zi (apikey=6bb2d225). De asemenea si pentru API-ul furnizat de google am avut nevoie de obtinerea unor credentiale, in urma carora am primit un ID de client (clientId = "671863786229-bdpn2863uk4tf7doac20mvjuvlmrfdmp.apps.googleusercontent.com"). </p>
