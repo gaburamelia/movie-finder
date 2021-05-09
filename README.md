@@ -27,4 +27,4 @@ La baza acestei aplicatii stau doua API-uri. Unul dintre API-urile utilizate est
  <p> Pentru a putea utiliza API OMDb am avut nevoie de un apikey, cel furnizat de catre acesta are o limita de o 1000 de accesari pe zi (apikey=6bb2d225). De asemenea si pentru API-ul furnizat de google am avut nevoie de obtinerea unor credentiale, in urma carora am primit un ID de client (clientId = "671863786229-bdpn2863uk4tf7doac20mvjuvlmrfdmp.apps.googleusercontent.com"). </p>
  <h2>Capturi de ecran aplicație</h2>
  Pagina de logare
- <img src = "https://user-images.githubusercontent.com/83892815/117584356-2352f180-b115-11eb-8585-3ca668528cc7.jpeg" width = "200" />
+ <img src = "https://user-images.githubusercontent.com/83892815/117584356-2352f180-b115-11eb-8585-3ca668528cc7.jpeg" width = "300" />
