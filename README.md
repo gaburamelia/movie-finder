@@ -22,7 +22,7 @@ La baza acestei aplicatii stau doua API-uri. Unul dintre API-urile utilizate est
 <h2>Flux de date</h2>
 <p>
   Primul request in cadrul acestei aplicatii este introducerea numelui filmului pe care dorim sa-l cautam.</p>
-   <img src = "https://user-images.githubusercontent.com/83892815/117584439-b5f39080-b115-11eb-91e6-03053d95ee84.jpeg" width = "400" />
+   <img src = "https://user-images.githubusercontent.com/83892815/117584439-b5f39080-b115-11eb-91e6-03053d95ee84.jpeg" width = "500" />
  <p> Ca response pagina ne va furniza o lista cu filme care au incluse in sintaxa lor denumirea pe care am introdus-o. </p>
  
 <p>Apoi urmatorul request pe care il mai putem face este seletarea filmului dorit din lista pe care ne-a generat-o, urmand ca a primi ca si raspuns descrierea, rating-ul acestuia.</p>
@@ -30,4 +30,4 @@ La baza acestei aplicatii stau doua API-uri. Unul dintre API-urile utilizate est
  <p> Pentru a putea utiliza API OMDb am avut nevoie de un apikey, cel furnizat de catre acesta are o limita de o 1000 de accesari pe zi (apikey=6bb2d225). De asemenea si pentru API-ul furnizat de google am avut nevoie de obtinerea unor credentiale, in urma carora am primit un ID de client (clientId = "671863786229-bdpn2863uk4tf7doac20mvjuvlmrfdmp.apps.googleusercontent.com"). </p>
  <h2>Capturi de ecran aplicație</h2>
  Pagina de logare
- <img src = "https://user-images.githubusercontent.com/83892815/117584356-2352f180-b115-11eb-8585-3ca668528cc7.jpeg" width = "400" />
+ <img src = "https://user-images.githubusercontent.com/83892815/117584356-2352f180-b115-11eb-8585-3ca668528cc7.jpeg" width = "500" />
