@@ -8,9 +8,7 @@
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  
 }
 
 .App-header {
@@ -35,4 +33,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.movie-item:hover{
+  cursor: pointer;
+  color: #4C4CFF;
+  text-decoration: underline;
+}
+
+html{
+  height: 100%;
+}
+
+body{
+  height: 100%;
+}
+
+#root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100%;
 }
